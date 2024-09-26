@@ -1,0 +1,14 @@
+#header1{
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#p1,#p2,#p3{
+    font-family:"Playwrite DE Grund", cursive;
+}
+
+#a1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
