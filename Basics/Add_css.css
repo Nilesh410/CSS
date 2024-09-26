@@ -7,3 +7,20 @@ footer{
     font-size: smaller;
     text-align: end;
 }
+
+#article{
+    color: darkcyan;
+    background-color: bisque;
+}
+
+.p{
+    font-style: italic;
+}
+
+p,article{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p.p{
+    font-weight: 500;
+}
