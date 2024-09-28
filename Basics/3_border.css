@@ -6,6 +6,9 @@
     border-style:inset;
     width:fit-content;
     height:auto;
+    padding:10px;
+    margin:20px;
+
 }
 
 span{
@@ -16,6 +19,8 @@ span{
     border-style:inset;
     width:50px;
     height:50px;
+    padding:10px;
+    margin:20px;
 }
 
 .p1{
@@ -24,6 +29,8 @@ span{
     border-radius: 5px;
     width: fit-content;
     height: fit-content;
+    padding:10px;
+    margin:20px;
 }
 
 .p2{
@@ -32,6 +39,8 @@ span{
     border-radius: 5px;
     width: fit-content;
     height: fit-content;
+    padding:10px;
+    margin:20px;
 }
 
 .p3{
@@ -40,4 +49,6 @@ span{
     border-radius: 5px;
     width: fit-content;
     height: fit-content;
+    padding:10px;
+    margin:20px;
 }
