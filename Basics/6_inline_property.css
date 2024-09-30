@@ -1,0 +1,10 @@
+span{
+    
+    border:1px solid green;
+    width: 200;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+
+}
