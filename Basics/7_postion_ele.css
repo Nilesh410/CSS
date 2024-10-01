@@ -1,5 +1,7 @@
-div{
+.container{
     border: 1px solid black;
+    position: relative;
+    height: 8000px;
 }
 img{
     margin: 10px;
@@ -7,5 +9,12 @@ img{
 
 .image3{
     top: 60px;
-    position: relative;
+   position:sticky;
+}
+.image4{
+    position: fixed;
+}
+.box{
+    height: 1000px;
+    background-color: aqua;
 }
