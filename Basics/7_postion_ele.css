@@ -1,0 +1,11 @@
+div{
+    border: 1px solid black;
+}
+img{
+    margin: 10px;
+}
+
+.image3{
+    top: 60px;
+    position: relative;
+}
