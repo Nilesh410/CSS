@@ -1,0 +1,13 @@
+/* .box{
+    border: 1px solid black;
+    width:25%;
+} */
+
+.parent{
+    border:1px solid black;
+    width:50%;
+}
+.child{
+    border:1px solid green;
+    width:20%;
+}
