@@ -1,0 +1,28 @@
+.container{
+    border: 2px solid black;
+    margin: 2px;
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    
+}
+.item{
+    border: 2px solid brown;
+    margin:2px;
+    width: 100px;
+    height: 100px;
+    padding: 2px;
+}
+ #item1{
+    background-color: blueviolet;
+ }
+ #item2{
+    background-color: yellowgreen;
+ }
+ #item3{
+    background-color: orangered;
+ }
+ #item4{
+    background-color: blue;
+ }
