@@ -1,4 +1,36 @@
 .container{
+    border: 3px solid brown;
     background-color: antiquewhite;
     
+    margin:1px;
+    padding:1px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.item{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: black;
+    border:1px solid black;
+    margin:5px;
+    padding:2px;
+    width:50px;
+    height:50px;
+   
+}
+#item1{
+    background-color: red;
+}
+#item2{
+    background-color: yellowgreen;
+}
+#item3{
+    background-color: coral;
+    align-self: flex-start;
+}
+#item4{
+    background-color: cadetblue;
 }
